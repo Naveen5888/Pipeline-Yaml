@@ -1,0 +1,11 @@
+public class Addtonumbers
+{
+  public static void main(string[]args)
+  {
+    int num1=5;
+    int num2-15;
+    int sum;
+    sum=num1+num2;
+    syster.out.println("sum:",+sum);
+  }
+}
